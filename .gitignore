@@ -2,6 +2,7 @@
 node_modules
 /dist
 env_django
+__pycache__
 
 # local env files
 .env.local
